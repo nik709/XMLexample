@@ -1,0 +1,10 @@
+<?xml version="1.0"  encoding="WINDOWS-1251" ?>
+<xmlsaxparser.Panel X="10" Y="10" W="640" H="480" COLOR="#FF0096">
+	<xmlsaxparser.Button X="10" Y="10" W="120" H="30">Button example</xmlsaxparser.Button>
+	<xmlsaxparser.Text X="10" Y="50" W="200" H="30">TextTextText</xmlsaxparser.Text>
+	<xmlsaxparser.Text X="230" Y="50" W="200" H="30">Text 2</xmlsaxparser.Text>
+	<xmlsaxparser.Label X="230" Y="90" W="200" H="30" COLOR="#00FF00">Русский текст</xmlsaxparser.Label>
+	<xmlsaxparser.Panel X="10" Y="150" W="640" H="480" COLOR="#1100ff">
+		<xmlsaxparser.Button X="100" Y="10" W="120" H="30">Button example</xmlsaxparser.Button>
+	</xmlsaxparser.Panel>
+</xmlsaxparser.Panel>
